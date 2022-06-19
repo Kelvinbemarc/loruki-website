@@ -1,2 +1,2 @@
-# loruki-website
-a fake online hosting platform
+# kelvin bemarc
+online web dev crash course
